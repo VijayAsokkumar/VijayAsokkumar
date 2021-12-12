@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating apps
 - 🌱 I’m currently learning data science and app development
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 How to reach me mailme @vijayjun25@gmail.com
 
 <!---
 VijayAsokkumar/VijayAsokkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
